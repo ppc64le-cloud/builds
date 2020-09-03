@@ -1,6 +1,6 @@
 {
-"source": "git",
-"commit": "1234",
-"artifacts": "something",
-"project": "golang/master"
+  "source": "git",
+  "commit": "1234",
+  "artifacts": "something",
+  "project": "golang/master"
 }
