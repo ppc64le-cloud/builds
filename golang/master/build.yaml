@@ -1,6 +1,6 @@
 {
-  "source": "git",
-  "commit": "1234",
-  "artifacts": "something",
+  "source": "github.com/golang/go.git",
+  "commit": "github.com/golang/go.git",
+  "artifacts": "sample.txt",
   "project": "golang/master"
 }
