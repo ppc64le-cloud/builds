@@ -1,6 +1,6 @@
 {
   "source": "github.com/golang/go.git",
   "commit": "1234",
-  "artifacts": "sample.txt",
+  "artifacts": "go1.15.1.linux-ppc64le.tar.gz",
   "project": "golang/master"
 }
