@@ -1,6 +1,6 @@
 {
   "source": "github.com/golang/go.git",
-  "commit": "967a8017f7",
+  "commit": "62f88b6dc8",
   "artifacts": [
     "go.tar.gz"
   ],
