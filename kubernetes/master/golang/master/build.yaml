@@ -1,6 +1,6 @@
 {
   "source": "github.com/kubernetes/kubernetes.git",
-  "commit": "a83cc51a19d",
+  "commit": "537941765fe",
   "artifacts": [
     "kubernetes-client-linux-ppc64le.tar.gz",
     "kubernetes-server-linux-ppc64le.tar.gz",
