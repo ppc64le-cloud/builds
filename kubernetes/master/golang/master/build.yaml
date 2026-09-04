@@ -1,10 +1,10 @@
 {
   "source": "github.com/kubernetes/kubernetes.git",
-  "commit": "62a78fd86a6",
+  "commit": "3ae062846af",
   "artifacts": [
-    "kubernetes-test-linux-ppc64le.tar.gz",
     "kubernetes-client-linux-ppc64le.tar.gz",
-    "kubernetes-server-linux-ppc64le.tar.gz"
+    "kubernetes-server-linux-ppc64le.tar.gz",
+    "kubernetes-test-linux-ppc64le.tar.gz"
   ],
   "project": "kubernetes/master/golang/master"
 }
